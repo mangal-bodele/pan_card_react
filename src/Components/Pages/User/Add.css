@@ -1,0 +1,19 @@
+.Add{
+    background-color: orange;
+    margin:auto;
+    width: 500px;
+    padding: 20px;
+}
+.Add-h3{
+    color:rgb(232, 58, 58);
+    text-align: center;
+}
+.Add-label{
+    text-align: start;
+}
+.Add-table{
+    margin: auto;
+    background-color: rgb(39, 244, 166);
+    width: 1000px;
+    height: auto;
+}
